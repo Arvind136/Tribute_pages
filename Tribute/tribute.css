@@ -1,0 +1,37 @@
+                        .navbar-brand {
+                            padding: 8px;
+                            font-weight: bold;
+                            color: rgb(228, 118, 67) !important;
+                        }
+                        
+                        .find {
+                            margin-right: 10px !important;
+                            padding-right: 10px !important;
+                        }
+                        
+                        #photo {
+                            height: calc(100vh - 54px);
+                            background-image: url(https://www.apnikaksha.net/static/media/Aman.dd1c4af0.jpg);
+                            background-size: cover;
+                        }
+                        
+                        .page-section {
+                            padding: 6rem 0;
+                        }
+                        
+                        .tribute-subheading {
+                            margin-top: calc(30px + 0.5vh);
+                            margin-bottom: calc(12px + 0.5vh);
+                            text-align: left;
+                            line-height: 1.2em;
+                        }
+                        
+                        #tribute-videoscategories {
+                            margin-top: 5px;
+                        }
+                        
+                        #img-caption {
+                            font-style: italic;
+                            margin-top: 2px;
+                            margin-left: 1px;
+                        }
